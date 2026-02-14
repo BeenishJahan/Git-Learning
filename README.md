@@ -1,5 +1,5 @@
 # Git-Learning
 <br>
-This is my first github reposityory
+This is my first github repository
 <br>
 Author - Beenish Jahan
